@@ -4,5 +4,5 @@
 
 	* Example Output:
 
-		Enter the mathematical expression :  [{(1-2)+(2*5)}]
-		Brackets are balanced.
+		* Enter the mathematical expression :  [{(1-2)+(2*5)}]
+		* Brackets are balanced.
